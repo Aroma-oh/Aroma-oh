@@ -1,4 +1,5 @@
 <div align="center"> 
+ 
 <br /><br />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=73&duration=3000&pause=1500&color=9AC5F4&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+I'm+Areum+%3A%3E" alt="Typing SVG" /></a>
 <br /><br />
@@ -25,9 +26,7 @@
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white">
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
-
-<br /><br />
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white">
+<br /><br />
 
-
- </div>
+</div>
