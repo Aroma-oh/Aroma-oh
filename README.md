@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
 
 
-#### 🤍 Nice way to meet me : [**포트폴리오 바로가기**](https://aroma-oh-portfolio.com/)
+#### 🤍 Nice way to meet me : 👉🏻 [**포트폴리오 바로가기**](https://aroma-oh-portfolio.com/) 👈🏻
 <a href="mailto:on002way@gmail.com" target="_blank"><img src="https://img.shields.io/badge/on002way@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <a href="https://velog.io/@on002way/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
 <br /><br />
