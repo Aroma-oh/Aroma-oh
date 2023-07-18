@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+<br />
 <img src="https://img.shields.io/badge/Redux toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Recoil&logoColor=white">
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
