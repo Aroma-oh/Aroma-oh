@@ -12,7 +12,6 @@
 <br />
 <img src="https://img.shields.io/badge/Redux toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Recoil&logoColor=white">
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
 </br>
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled components&logoColor=white">
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white">
