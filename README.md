@@ -1,31 +1,28 @@
-<div align="center"> 
- 
-<br /><br />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=73&duration=3000&pause=1500&color=9AC5F4&center=true&vCenter=true&width=500&height=80&lines=Hello%2C+I'm+Areum+%3A%3E" alt="Typing SVG" /></a>
-<br /><br />
+# 안녕하세요, 오아름입니다. 
+* 빠르게 변화하며, 더 나은 방향을 찾아가는 프론트엔드 환경을 좋아합니다. 
+* 오늘의 아이디어가 내일의 검증이 될 수 있도록 유연한 코드를 작성하는 일에 관심이 많습니다.
+* 현재는 코드의 추상화에 몰두하며 프론트엔드 개발자가 되기위해 공부하고 있습니다.
+---
 
-#### 🤍 Skils
+## Toy projects
+|project|repo|web|
+|:---|:---|:---|
+|추천 검색어 제공 서비스|https://github.com/Aroma-oh/search-recommend-serivce|준비중|
+|리포지토리 이슈 확인 서비스|https://github.com/Aroma-oh/issues-viewing-service|준비중|
+|To do (with Auth)|https://github.com/Aroma-oh/wanted-pre-onboarding-frontend|https://wanted-pre-onboarding-frontend-tau-five.vercel.app/signin|
+|Responsive web|https://github.com/Aroma-oh/tennis-coach|https://tennis-coach.vercel.app|
+|Recycling community|https://github.com/Aroma-oh/recycling-community-projects|https://ssdss.vercel.app|
+|Portfolio page|https://github.com/Aroma-oh/areum-portfolio|https://aroma-oh-portfolio.com/|
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-<br />
-<img src="https://img.shields.io/badge/Redux toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=Recoil&logoColor=white">
-</br>
-<img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled components&logoColor=white">
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white">
-</br>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
-</br>
-<img src="https://img.shields.io/badge/ESlint-4B32C3?style=flat-square&logo=eslint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prettier-e13232?style=flat-square&logo=prettier&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+## Technicals
+```
+🛠 Stacks
+  - Frontend Stack : JavaScript / TypeScript / React 
+  - Styling : Styled-Components
 
+📖 Experienced & Learning
+  - Next.js / NodeJS / Express / Firebase / S3
 
-#### 🤍 Nice way to meet me : 👉🏻 [**포트폴리오 바로가기**](https://aroma-oh-portfolio.com/) 👈🏻
-<a href="mailto:on002way@gmail.com" target="_blank"><img src="https://img.shields.io/badge/on002way@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
- <a href="https://velog.io/@on002way/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-<br /><br />
-</div>
+🫂 Collaboration Tool
+  - Slack, Discord, Notion, Figma
+```
