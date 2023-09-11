@@ -17,7 +17,7 @@
 ## Technicals
 ```
 🛠 Stacks
-  - Frontend Stack : JavaScript / TypeScript / React 
+  - Frontend Stack : JavaScript / TypeScript / React / Recoil
   - Styling : Styled-Components
 
 📖 Experienced & Learning
