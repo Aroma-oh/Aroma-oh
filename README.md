@@ -9,6 +9,7 @@
 |:---|:---|:---|
 |추천 검색어 제공 서비스|https://github.com/Aroma-oh/search-recommend-serivce|준비중|
 |리포지토리 이슈 확인 서비스|https://github.com/Aroma-oh/issues-viewing-service|준비중|
+|시계열 차트|https://github.com/Aroma-oh/chart-dashboard|https://chart-dashboard-mauve.vercel.app/|
 |To do (with Auth)|https://github.com/Aroma-oh/wanted-pre-onboarding-frontend|https://wanted-pre-onboarding-frontend-tau-five.vercel.app/signin|
 |Responsive web|https://github.com/Aroma-oh/tennis-coach|https://tennis-coach.vercel.app|
 |Recycling community|https://github.com/Aroma-oh/recycling-community-projects|https://ssdss.vercel.app|
