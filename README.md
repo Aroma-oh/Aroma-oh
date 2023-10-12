@@ -7,6 +7,8 @@
 ## Toy projects
 |project|repo|web|
 |:---|:---|:---|
+|정산하자|https://github.com/Aroma-oh/easy-bill-splitter|개발중|
+|SRP-DIP-OCP|https://github.com/Aroma-oh/SRP-DIP-OCP| - |
 |추천 검색어 제공 서비스|https://github.com/Aroma-oh/search-recommend-serivce|https://search-recommend-serivce-zfyf.vercel.app|
 |리포지토리 이슈 확인 서비스|https://github.com/Aroma-oh/issues-viewing-service|https://issues-viewing-service-1nk3mwg9k-aroma-oh.vercel.app/repos/facebook/react/issues|
 |시계열 차트|https://github.com/Aroma-oh/chart-dashboard|https://chart-dashboard-mauve.vercel.app/|
